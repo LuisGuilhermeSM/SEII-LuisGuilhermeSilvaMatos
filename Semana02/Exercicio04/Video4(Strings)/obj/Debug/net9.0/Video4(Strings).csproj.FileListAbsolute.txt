@@ -1,0 +1,15 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/bin/Debug/net9.0/Video4(Strings)
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/bin/Debug/net9.0/Video4(Strings).deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/bin/Debug/net9.0/Video4(Strings).runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/bin/Debug/net9.0/Video4(Strings).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/bin/Debug/net9.0/Video4(Strings).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/refint/Video4(Strings).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/ref/Video4(Strings).dll

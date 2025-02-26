@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Video4(Strings)/1.0.0": {
+        "runtime": {
+          "Video4(Strings).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video4(Strings)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

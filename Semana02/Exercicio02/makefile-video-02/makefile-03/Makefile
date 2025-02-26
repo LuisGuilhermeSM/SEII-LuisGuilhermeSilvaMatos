@@ -6,9 +6,13 @@ OBJ = ./obj
 SCR = ./scr
 
 
-all:
+all: libed myapps
+	
+libed:
 	gcc -c $(SCR)/float_vector.c -I $(INCLUDE) -o $(OBJ)/float_vector.o
 	gcc -c $(SCR)/mytime.c -I $(INCLUDE) -o $(OBJ)/mytime.o
+
+myapps:
 	gcc $(APPS)/app.c $(OBJ)/float_vector.o -I $(INCLUDE) -o $(BIN)/app
 	gcc $(APPS)/app_com_mytime.c $(OBJ)/*.o -I $(INCLUDE) -o $(BIN)/app_com_mytime
 

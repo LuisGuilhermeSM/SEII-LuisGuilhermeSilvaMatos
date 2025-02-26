@@ -1,0 +1,15 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/bin/Debug/net9.0/Video2
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/bin/Debug/net9.0/Video2.deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/bin/Debug/net9.0/Video2.runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/bin/Debug/net9.0/Video2.dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/bin/Debug/net9.0/Video2.pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/refint/Video2.dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/Video2.genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video2/obj/Debug/net9.0/ref/Video2.dll

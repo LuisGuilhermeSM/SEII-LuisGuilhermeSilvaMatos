@@ -1,0 +1,15 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/bin/Debug/net9.0/Video3(DataTypes)
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/bin/Debug/net9.0/Video3(DataTypes).deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/bin/Debug/net9.0/Video3(DataTypes).runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/bin/Debug/net9.0/Video3(DataTypes).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/bin/Debug/net9.0/Video3(DataTypes).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/refint/Video3(DataTypes).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/Video3(DataTypes).genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video3(DataTypes)/obj/Debug/net9.0/ref/Video3(DataTypes).dll
