@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Video11(Class)/1.0.0": {
+        "runtime": {
+          "Video11(Class).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video11(Class)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

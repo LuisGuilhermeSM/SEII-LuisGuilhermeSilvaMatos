@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Video15(Constructor)/1.0.0": {
+        "runtime": {
+          "Video15(Constructor).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video15(Constructor)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

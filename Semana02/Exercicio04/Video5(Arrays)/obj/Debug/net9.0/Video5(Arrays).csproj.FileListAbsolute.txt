@@ -1,0 +1,30 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/bin/Debug/net9.0/Video5(Arrays)
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/bin/Debug/net9.0/Video5(Arrays).deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/bin/Debug/net9.0/Video5(Arrays).runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/bin/Debug/net9.0/Video5(Arrays).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/bin/Debug/net9.0/Video5(Arrays).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/refint/Video5(Arrays).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/Video5(Arrays).genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video5(Arrays)/obj/Debug/net9.0/ref/Video5(Arrays).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\bin\Debug\net9.0\Video5(Arrays).exe
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\bin\Debug\net9.0\Video5(Arrays).deps.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\bin\Debug\net9.0\Video5(Arrays).runtimeconfig.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\bin\Debug\net9.0\Video5(Arrays).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\bin\Debug\net9.0\Video5(Arrays).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).AssemblyInfoInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).AssemblyInfo.cs
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).sourcelink.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\refint\Video5(Arrays).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\Video5(Arrays).genruntimeconfig.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video5(Arrays)\obj\Debug\net9.0\ref\Video5(Arrays).dll

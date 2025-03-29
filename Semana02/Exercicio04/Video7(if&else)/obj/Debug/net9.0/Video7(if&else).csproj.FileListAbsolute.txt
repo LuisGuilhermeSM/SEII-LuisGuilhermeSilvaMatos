@@ -1,0 +1,30 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/bin/Debug/net9.0/Video7(if&else)
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/bin/Debug/net9.0/Video7(if&else).deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/bin/Debug/net9.0/Video7(if&else).runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/bin/Debug/net9.0/Video7(if&else).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/bin/Debug/net9.0/Video7(if&else).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/refint/Video7(if&else).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/Video7(if&else).genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video7(if&else)/obj/Debug/net9.0/ref/Video7(if&else).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\bin\Debug\net9.0\Video7(if&else).exe
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\bin\Debug\net9.0\Video7(if&else).deps.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\bin\Debug\net9.0\Video7(if&else).runtimeconfig.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\bin\Debug\net9.0\Video7(if&else).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\bin\Debug\net9.0\Video7(if&else).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).AssemblyInfoInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).AssemblyInfo.cs
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).csproj.CoreCompileInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).sourcelink.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\refint\Video7(if&else).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\Video7(if&else).genruntimeconfig.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video7(if&else)\obj\Debug\net9.0\ref\Video7(if&else).dll

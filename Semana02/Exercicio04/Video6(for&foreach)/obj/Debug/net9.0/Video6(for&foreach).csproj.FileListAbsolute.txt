@@ -1,0 +1,15 @@
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/bin/Debug/net9.0/Video6(for&foreach)
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/bin/Debug/net9.0/Video6(for&foreach).deps.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/bin/Debug/net9.0/Video6(for&foreach).runtimeconfig.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/bin/Debug/net9.0/Video6(for&foreach).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/bin/Debug/net9.0/Video6(for&foreach).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).GeneratedMSBuildEditorConfig.editorconfig
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).AssemblyInfoInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).AssemblyInfo.cs
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).csproj.CoreCompileInputs.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).sourcelink.json
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/refint/Video6(for&foreach).dll
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).pdb
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/Video6(for&foreach).genruntimeconfig.cache
+/home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video6(for&foreach)/obj/Debug/net9.0/ref/Video6(for&foreach).dll

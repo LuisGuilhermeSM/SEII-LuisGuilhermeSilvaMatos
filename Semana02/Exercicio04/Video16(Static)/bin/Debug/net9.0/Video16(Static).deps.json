@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Video16(Static)/1.0.0": {
+        "runtime": {
+          "Video16(Static).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video16(Static)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

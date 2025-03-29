@@ -13,3 +13,18 @@
 /home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).pdb
 /home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/Video4(Strings).genruntimeconfig.cache
 /home/lgsm/Documentos/Ufu/SEII-LuisGuilhermeSilvaMatos/Semana02/Exercicio04/Video4(Strings)/obj/Debug/net9.0/ref/Video4(Strings).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\bin\Debug\net9.0\Video4(Strings).exe
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\bin\Debug\net9.0\Video4(Strings).deps.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\bin\Debug\net9.0\Video4(Strings).runtimeconfig.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\bin\Debug\net9.0\Video4(Strings).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\bin\Debug\net9.0\Video4(Strings).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).AssemblyInfoInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).AssemblyInfo.cs
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).csproj.CoreCompileInputs.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).sourcelink.json
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\refint\Video4(Strings).dll
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).pdb
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\Video4(Strings).genruntimeconfig.cache
+C:\Users\lgsil\OneDrive\Área de Trabalho\Ufu\6° período\Semb2\SEII-LuisGuilhermeSilvaMatos\Semana02\Exercicio04\Video4(Strings)\obj\Debug\net9.0\ref\Video4(Strings).dll

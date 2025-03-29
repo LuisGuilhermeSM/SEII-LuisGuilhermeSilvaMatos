@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Video18(Records)/1.0.0": {
+        "runtime": {
+          "Video18(Records).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video18(Records)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
